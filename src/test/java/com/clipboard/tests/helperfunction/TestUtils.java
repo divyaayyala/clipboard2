@@ -1,4 +1,4 @@
-package helperfunction;
+package com.clipboard.tests.helperfunction;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
